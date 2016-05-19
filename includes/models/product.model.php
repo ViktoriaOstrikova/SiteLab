@@ -1,6 +1,6 @@
 <?php
 
-class Product{.
+class Product{
 	
 	public static function find($arr){
 		global $db;
